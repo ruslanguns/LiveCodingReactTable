@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "movie_title": "Shrink",
+    "genre": "Drama",
+    "year": 1993,
+    "director": "Terrel Trevains",
+    "cost": "$18.25",
+    "duration": 227
+  },
+  {
+    "id": 2,
+    "movie_title": "Out for a Kill",
+    "genre": "Action|Crime|Thriller",
+    "year": 2003,
+    "director": "Ofilia Bosher",
+    "cost": "$10.33",
+    "duration": 71
+  },
+  {
+    "id": 3,
+    "movie_title": "Ali Zoua: Prince of the Streets (Ali Zaoua, prince de la rue)",
+    "genre": "Crime|Drama",
+    "year": 1996,
+    "director": "Kinny Copes",
+    "cost": "$27.77",
+    "duration": 127
+  },
+  {
+    "id": 4,
+    "movie_title": "Godzilla vs. Megaguirus (Gojira tai Megagirasu: Jî shômetsu sakusen)",
+    "genre": "Action|Sci-Fi",
+    "year": 1997,
+    "director": "Yehudi Dormon",
+    "cost": "$9.65",
+    "duration": 137
+  },
+  {
+    "id": 5,
+    "movie_title": "Honeymoon",
+    "genre": "Comedy|Romance",
+    "year": 2005,
+    "director": "Kiele Pendrigh",
+    "cost": "$11.76",
+    "duration": 179
+  },
+  {
+    "id": 6,
+    "movie_title": "Out at the Wedding",
+    "genre": "Comedy|Romance",
+    "year": 2003,
+    "director": "Beitris Heasman",
+    "cost": "$7.40",
+    "duration": 168
+  },
+  {
+    "id": 7,
+    "movie_title": "Regular Lovers (Amants réguliers, Les)",
+    "genre": "Drama",
+    "year": 2006,
+    "director": "Loree Trussler",
+    "cost": "$9.31",
+    "duration": 201
+  },
+  {
+    "id": 8,
+    "movie_title": "Shun Li and the Poet",
+    "genre": "Drama",
+    "year": 2003,
+    "director": "Harriette Normaville",
+    "cost": "$16.16",
+    "duration": 49
+  },
+  {
+    "id": 9,
+    "movie_title": "In Praise of Love (Éloge de l'amour)",
+    "genre": "Drama",
+    "year": 1989,
+    "director": "Jolene Selborne",
+    "cost": "$28.96",
+    "duration": 47
+  },
+  {
+    "id": 10,
+    "movie_title": "Aristocrats, The",
+    "genre": "Comedy|Documentary",
+    "year": 2010,
+    "director": "Johnathon Kryszka",
+    "cost": "$20.61",
+    "duration": 235
+  },
+  {
+    "id": 11,
+    "movie_title": "Amazon Women on the Moon",
+    "genre": "Comedy|Sci-Fi",
+    "year": 1988,
+    "director": "Dannie Standage",
+    "cost": "$16.90",
+    "duration": 132
+  },
+  {
+    "id": 12,
+    "movie_title": "Rainy Dog (Gokudô kuroshakai)",
+    "genre": "Crime|Drama",
+    "year": 1957,
+    "director": "Christalle Freak",
+    "cost": "$20.04",
+    "duration": 145
+  },
+  {
+    "id": 13,
+    "movie_title": "William Kunstler: Disturbing the Universe",
+    "genre": "Documentary",
+    "year": 1988,
+    "director": "Loretta Tesyro",
+    "cost": "$18.62",
+    "duration": 144
+  },
+  {
+    "id": 14,
+    "movie_title": "Flying Swords of Dragon Gate, The (Long men fei jia)",
+    "genre": "Action|Adventure|IMAX",
+    "year": 1992,
+    "director": "Darwin Elis",
+    "cost": "$17.25",
+    "duration": 233
+  },
+  {
+    "id": 15,
+    "movie_title": "R.I.P.D.",
+    "genre": "Action|Comedy|Fantasy",
+    "year": 2001,
+    "director": "Zsa zsa Ludvigsen",
+    "cost": "$28.28",
+    "duration": 136
+  },
+  {
+    "id": 16,
+    "movie_title": "Polar Bear King, The (Kvitebjørn Kong Valemon)",
+    "genre": "Adventure|Children|Fantasy",
+    "year": 2011,
+    "director": "Gustave Fabbro",
+    "cost": "$7.07",
+    "duration": 181
+  },
+  {
+    "id": 17,
+    "movie_title": "Luv",
+    "genre": "Comedy",
+    "year": 1990,
+    "director": "Isa Dehn",
+    "cost": "$18.77",
+    "duration": 67
+  },
+  {
+    "id": 18,
+    "movie_title": "Edward II",
+    "genre": "Drama",
+    "year": 1999,
+    "director": "Rivy Sowrah",
+    "cost": "$27.13",
+    "duration": 66
+  },
+  {
+    "id": 19,
+    "movie_title": "Cheeky (Trasgredire)",
+    "genre": "Comedy|Drama",
+    "year": 2000,
+    "director": "Sly Lory",
+    "cost": "$26.47",
+    "duration": 110
+  },
+  {
+    "id": 20,
+    "movie_title": "Something Wild",
+    "genre": "Drama",
+    "year": 1994,
+    "director": "Tiena McSporrin",
+    "cost": "$16.66",
+    "duration": 73
+  },
+  {
+    "id": 21,
+    "movie_title": "Buying the Cow",
+    "genre": "Comedy|Romance",
+    "year": 2007,
+    "director": "Benita Schimaschke",
+    "cost": "$23.36",
+    "duration": 240
+  },
+  {
+    "id": 22,
+    "movie_title": "Scarlet Empress, The",
+    "genre": "Drama",
+    "year": 1997,
+    "director": "Ambros Pala",
+    "cost": "$5.94",
+    "duration": 247
+  },
+  {
+    "id": 23,
+    "movie_title": "La montaña rusa",
+    "genre": "Comedy|Romance",
+    "year": 1998,
+    "director": "Mort Poytheras",
+    "cost": "$22.05",
+    "duration": 192
+  },
+  {
+    "id": 24,
+    "movie_title": "Times of Harvey Milk, The",
+    "genre": "Documentary",
+    "year": 2005,
+    "director": "Van Dyer",
+    "cost": "$9.36",
+    "duration": 85
+  },
+  {
+    "id": 25,
+    "movie_title": "Jive Turkey",
+    "genre": "Action",
+    "year": 2008,
+    "director": "Alva Shingles",
+    "cost": "$10.22",
+    "duration": 63
+  },
+  {
+    "id": 26,
+    "movie_title": "Flash Gordon Conquers the Universe",
+    "genre": "Action|Sci-Fi",
+    "year": 2004,
+    "director": "Nannette Sulter",
+    "cost": "$24.30",
+    "duration": 74
+  },
+  {
+    "id": 27,
+    "movie_title": "Roseland",
+    "genre": "Drama|Musical|Romance",
+    "year": 2007,
+    "director": "Bill Robertot",
+    "cost": "$19.55",
+    "duration": 216
+  },
+  {
+    "id": 28,
+    "movie_title": "Misérables, Les",
+    "genre": "Drama|Romance",
+    "year": 2001,
+    "director": "Nikolos Bromehead",
+    "cost": "$18.11",
+    "duration": 170
+  },
+  {
+    "id": 29,
+    "movie_title": "Dinner with Friends",
+    "genre": "Comedy|Drama",
+    "year": 1999,
+    "director": "Winona Dieton",
+    "cost": "$7.68",
+    "duration": 150
+  },
+  {
+    "id": 30,
+    "movie_title": "Shriek of the Mutilated",
+    "genre": "Horror",
+    "year": 1990,
+    "director": "Galina Schirok",
+    "cost": "$7.43",
+    "duration": 58
+  },
+  {
+    "id": 31,
+    "movie_title": "On the Ice",
+    "genre": "Drama|Thriller",
+    "year": 1993,
+    "director": "Raimondo Millsap",
+    "cost": "$27.53",
+    "duration": 218
+  },
+  {
+    "id": 32,
+    "movie_title": "Stand by for Action",
+    "genre": "Action|Drama|War",
+    "year": 2009,
+    "director": "Cosette Bundy",
+    "cost": "$9.55",
+    "duration": 128
+  },
+  {
+    "id": 33,
+    "movie_title": "Stalingrad",
+    "genre": "Action|Drama|War|IMAX",
+    "year": 1965,
+    "director": "Belinda Baggett",
+    "cost": "$20.47",
+    "duration": 207
+  },
+  {
+    "id": 34,
+    "movie_title": "Cyborg Girl (Boku no kanojo wa saibôgu)",
+    "genre": "Action|Comedy|Romance|Sci-Fi",
+    "year": 1996,
+    "director": "Junette Giabucci",
+    "cost": "$26.66",
+    "duration": 148
+  },
+  {
+    "id": 35,
+    "movie_title": "Friday Night (Vendredi Soir)",
+    "genre": "Drama",
+    "year": 2011,
+    "director": "Chlo Fargher",
+    "cost": "$27.65",
+    "duration": 248
+  },
+  {
+    "id": 36,
+    "movie_title": "Boogeyman, The",
+    "genre": "Horror",
+    "year": 1999,
+    "director": "Roderich Crocumbe",
+    "cost": "$8.60",
+    "duration": 217
+  },
+  {
+    "id": 37,
+    "movie_title": "Death of the Incredible Hulk, The",
+    "genre": "Action",
+    "year": 2003,
+    "director": "Paige Murrison",
+    "cost": "$23.85",
+    "duration": 100
+  },
+  {
+    "id": 38,
+    "movie_title": "Moomins on the Riviera (Muumit Rivieralla)",
+    "genre": "Animation|Children|Comedy",
+    "year": 1995,
+    "director": "Van Poulsum",
+    "cost": "$5.61",
+    "duration": 187
+  },
+  {
+    "id": 39,
+    "movie_title": "Jasminum",
+    "genre": "Comedy|Drama",
+    "year": 2001,
+    "director": "Hernando Layfield",
+    "cost": "$24.14",
+    "duration": 187
+  },
+  {
+    "id": 40,
+    "movie_title": "Tyler Perry's I Can Do Bad All by Myself",
+    "genre": "Comedy|Drama",
+    "year": 1989,
+    "director": "Rutherford Middell",
+    "cost": "$11.01",
+    "duration": 196
+  },
+  {
+    "id": 41,
+    "movie_title": "Howard Zinn: You Can't Be Neutral on a Moving Train",
+    "genre": "Documentary",
+    "year": 1994,
+    "director": "Daryle Crosetto",
+    "cost": "$21.90",
+    "duration": 241
+  },
+  {
+    "id": 42,
+    "movie_title": "Girl Who Talked to Dolphins, The",
+    "genre": "Documentary",
+    "year": 2003,
+    "director": "Morton Janatka",
+    "cost": "$7.54",
+    "duration": 190
+  },
+  {
+    "id": 43,
+    "movie_title": "Goin' South",
+    "genre": "Comedy|Western",
+    "year": 1977,
+    "director": "Gabriel Innman",
+    "cost": "$12.39",
+    "duration": 222
+  },
+  {
+    "id": 44,
+    "movie_title": "Grand Hotel",
+    "genre": "Drama|Romance",
+    "year": 1998,
+    "director": "Delinda Strange",
+    "cost": "$7.76",
+    "duration": 45
+  },
+  {
+    "id": 45,
+    "movie_title": "Swinger, The",
+    "genre": "Comedy",
+    "year": 1995,
+    "director": "Weston Hounson",
+    "cost": "$17.28",
+    "duration": 133
+  },
+  {
+    "id": 46,
+    "movie_title": "Tabloid",
+    "genre": "Documentary",
+    "year": 1992,
+    "director": "Lurlene Benez",
+    "cost": "$10.90",
+    "duration": 230
+  },
+  {
+    "id": 47,
+    "movie_title": "El Hada Buena - Una Fábula Peronista",
+    "genre": "Comedy|Sci-Fi",
+    "year": 2006,
+    "director": "Kali Brameld",
+    "cost": "$23.54",
+    "duration": 85
+  },
+  {
+    "id": 48,
+    "movie_title": "Costa Brava",
+    "genre": "Drama",
+    "year": 1996,
+    "director": "Rheta Beddingham",
+    "cost": "$27.66",
+    "duration": 234
+  },
+  {
+    "id": 49,
+    "movie_title": "When We Were Kings",
+    "genre": "Documentary",
+    "year": 1997,
+    "director": "Rosabelle Ginsie",
+    "cost": "$19.18",
+    "duration": 118
+  },
+  {
+    "id": 50,
+    "movie_title": "Stardust",
+    "genre": "Drama",
+    "year": 1987,
+    "director": "Davis Rubinovici",
+    "cost": "$19.04",
+    "duration": 203
+  },
+  {
+    "id": 51,
+    "movie_title": "Four Friends (a.k.a. Georgia's Friends)",
+    "genre": "Drama",
+    "year": 1958,
+    "director": "Merline Vaisey",
+    "cost": "$10.89",
+    "duration": 188
+  },
+  {
+    "id": 52,
+    "movie_title": "Heartbreak Kid, The",
+    "genre": "Comedy|Drama|Romance",
+    "year": 2006,
+    "director": "Bronny Fidock",
+    "cost": "$11.53",
+    "duration": 244
+  },
+  {
+    "id": 53,
+    "movie_title": "File on Thelma Jordan, The",
+    "genre": "Crime|Drama|Film-Noir|Mystery",
+    "year": 2002,
+    "director": "Adriena Wolfinger",
+    "cost": "$23.60",
+    "duration": 104
+  },
+  {
+    "id": 54,
+    "movie_title": "Kagi (Odd Obsession)",
+    "genre": "Drama",
+    "year": 2004,
+    "director": "Lorie Oxshott",
+    "cost": "$15.76",
+    "duration": 197
+  },
+  {
+    "id": 55,
+    "movie_title": "Last Blitzkrieg, The",
+    "genre": "Drama|War",
+    "year": 2008,
+    "director": "Gennie Chase",
+    "cost": "$19.39",
+    "duration": 94
+  },
+  {
+    "id": 56,
+    "movie_title": "Hide-Out",
+    "genre": "Comedy|Crime|Drama|Romance",
+    "year": 2010,
+    "director": "Randell Domenici",
+    "cost": "$25.16",
+    "duration": 156
+  },
+  {
+    "id": 57,
+    "movie_title": "Johnny Tremain",
+    "genre": "Adventure|Children|War",
+    "year": 2011,
+    "director": "Jeannie Sheara",
+    "cost": "$11.46",
+    "duration": 177
+  },
+  {
+    "id": 58,
+    "movie_title": "Angel Named Billy, An",
+    "genre": "Drama",
+    "year": 2004,
+    "director": "Gwennie Nannoni",
+    "cost": "$9.46",
+    "duration": 247
+  },
+  {
+    "id": 59,
+    "movie_title": "Two Friends",
+    "genre": "Drama",
+    "year": 2000,
+    "director": "Anna-maria Arcase",
+    "cost": "$12.83",
+    "duration": 186
+  },
+  {
+    "id": 60,
+    "movie_title": "Ninja Assassin",
+    "genre": "Action|Crime|Drama|Thriller",
+    "year": 2003,
+    "director": "Adriaens Haseley",
+    "cost": "$19.66",
+    "duration": 100
+  },
+  {
+    "id": 61,
+    "movie_title": "Lone Star",
+    "genre": "Drama|Mystery|Western",
+    "year": 2008,
+    "director": "Bridgette Plampeyn",
+    "cost": "$25.28",
+    "duration": 127
+  },
+  {
+    "id": 62,
+    "movie_title": "Broadway Melody, The",
+    "genre": "Musical",
+    "year": 1996,
+    "director": "Lionel Fills",
+    "cost": "$28.71",
+    "duration": 222
+  },
+  {
+    "id": 63,
+    "movie_title": "Prata Palomares",
+    "genre": "Horror|Thriller",
+    "year": 2001,
+    "director": "Sibella Mattholie",
+    "cost": "$9.52",
+    "duration": 224
+  },
+  {
+    "id": 64,
+    "movie_title": "Much Ado About Something",
+    "genre": "Documentary",
+    "year": 2007,
+    "director": "Nicola Schindler",
+    "cost": "$6.80",
+    "duration": 199
+  },
+  {
+    "id": 65,
+    "movie_title": "District, The (Nyócker!)",
+    "genre": "Animation|Comedy",
+    "year": 2010,
+    "director": "Curt Benko",
+    "cost": "$20.42",
+    "duration": 168
+  },
+  {
+    "id": 66,
+    "movie_title": "Breaking the Girls ",
+    "genre": "Crime|Thriller",
+    "year": 2003,
+    "director": "Kelsi Ackerman",
+    "cost": "$5.93",
+    "duration": 131
+  },
+  {
+    "id": 67,
+    "movie_title": "Aileen Wuornos: The Selling of a Serial Killer",
+    "genre": "Documentary",
+    "year": 2007,
+    "director": "Marguerite Shurey",
+    "cost": "$26.01",
+    "duration": 141
+  },
+  {
+    "id": 68,
+    "movie_title": "Last Ferry, The (Ostatni prom)",
+    "genre": "Drama",
+    "year": 1990,
+    "director": "Clayborne Seamons",
+    "cost": "$20.70",
+    "duration": 144
+  },
+  {
+    "id": 69,
+    "movie_title": "Last of Mrs. Cheyney, The",
+    "genre": "Comedy|Drama",
+    "year": 2001,
+    "director": "Cthrine Torry",
+    "cost": "$21.95",
+    "duration": 217
+  },
+  {
+    "id": 70,
+    "movie_title": "When Willie Comes Marching Home",
+    "genre": "Comedy|War",
+    "year": 2003,
+    "director": "Rosabel Crowcombe",
+    "cost": "$5.38",
+    "duration": 241
+  },
+  {
+    "id": 71,
+    "movie_title": "Just Around the Corner",
+    "genre": "Comedy|Musical",
+    "year": 2012,
+    "director": "Dell Boocock",
+    "cost": "$9.07",
+    "duration": 146
+  },
+  {
+    "id": 72,
+    "movie_title": "Marva Collins Story, The",
+    "genre": "Documentary|Drama",
+    "year": 1967,
+    "director": "Nial Baudet",
+    "cost": "$22.25",
+    "duration": 196
+  },
+  {
+    "id": 73,
+    "movie_title": "Sunset Blvd. (a.k.a. Sunset Boulevard)",
+    "genre": "Drama|Film-Noir|Romance",
+    "year": 2000,
+    "director": "Neda Chieze",
+    "cost": "$24.90",
+    "duration": 109
+  },
+  {
+    "id": 74,
+    "movie_title": "Dinotopia",
+    "genre": "Adventure|Fantasy",
+    "year": 1996,
+    "director": "Malva Icom",
+    "cost": "$16.77",
+    "duration": 106
+  },
+  {
+    "id": 75,
+    "movie_title": "Koruto wa ore no pasupooto (Colt Is My Passport, A)",
+    "genre": "Action|Crime|Drama",
+    "year": 1985,
+    "director": "Pincas Jindrich",
+    "cost": "$15.92",
+    "duration": 125
+  },
+  {
+    "id": 76,
+    "movie_title": "Night Has a Thousand Eyes",
+    "genre": "Drama|Film-Noir",
+    "year": 2003,
+    "director": "Harri Thay",
+    "cost": "$26.78",
+    "duration": 145
+  },
+  {
+    "id": 77,
+    "movie_title": "Bound by Honor (a.k.a. Blood In, Blood Out)",
+    "genre": "Action|Crime|Drama|Thriller",
+    "year": 1989,
+    "director": "Arlan Descroix",
+    "cost": "$19.27",
+    "duration": 129
+  },
+  {
+    "id": 78,
+    "movie_title": "Day of the Outlaw",
+    "genre": "Western",
+    "year": 2007,
+    "director": "Mayor Avramow",
+    "cost": "$19.44",
+    "duration": 89
+  },
+  {
+    "id": 79,
+    "movie_title": "Breakfast at Tiffany's",
+    "genre": "Drama|Romance",
+    "year": 1995,
+    "director": "Augustine Seeks",
+    "cost": "$28.57",
+    "duration": 229
+  },
+  {
+    "id": 80,
+    "movie_title": "Fifth Estate, The",
+    "genre": "Drama|Thriller",
+    "year": 1991,
+    "director": "Corena O'Shiel",
+    "cost": "$19.51",
+    "duration": 174
+  },
+  {
+    "id": 81,
+    "movie_title": "Bottle Shock",
+    "genre": "Drama",
+    "year": 2008,
+    "director": "Fulvia Pilipyak",
+    "cost": "$8.78",
+    "duration": 212
+  },
+  {
+    "id": 82,
+    "movie_title": "In Old Chicago",
+    "genre": "Action|Drama|Musical|War",
+    "year": 2009,
+    "director": "Christa Forstall",
+    "cost": "$6.15",
+    "duration": 71
+  },
+  {
+    "id": 83,
+    "movie_title": "No Strings Attached",
+    "genre": "Comedy|Romance",
+    "year": 1999,
+    "director": "Dorotea Sneaker",
+    "cost": "$11.49",
+    "duration": 128
+  },
+  {
+    "id": 84,
+    "movie_title": "The Big Bus",
+    "genre": "Action|Comedy",
+    "year": 2012,
+    "director": "Patsy Impey",
+    "cost": "$13.58",
+    "duration": 193
+  },
+  {
+    "id": 85,
+    "movie_title": "Kisses",
+    "genre": "Drama",
+    "year": 1993,
+    "director": "Ruthie Paynes",
+    "cost": "$12.90",
+    "duration": 202
+  },
+  {
+    "id": 86,
+    "movie_title": "Tungsten",
+    "genre": "Drama",
+    "year": 2002,
+    "director": "Jasmine McMurtyr",
+    "cost": "$12.59",
+    "duration": 193
+  },
+  {
+    "id": 87,
+    "movie_title": "Mighty Ducks, The",
+    "genre": "Children|Comedy",
+    "year": 1998,
+    "director": "Lyn Rolfs",
+    "cost": "$22.67",
+    "duration": 45
+  },
+  {
+    "id": 88,
+    "movie_title": "Deep Cover",
+    "genre": "Action|Crime|Thriller",
+    "year": 1969,
+    "director": "Gwynne Perch",
+    "cost": "$27.87",
+    "duration": 150
+  },
+  {
+    "id": 89,
+    "movie_title": "Snows of Kilimanjaro, The",
+    "genre": "Adventure",
+    "year": 1998,
+    "director": "Sybille Alred",
+    "cost": "$11.68",
+    "duration": 50
+  },
+  {
+    "id": 90,
+    "movie_title": "AM1200",
+    "genre": "Horror",
+    "year": 2000,
+    "director": "Judd Kyme",
+    "cost": "$18.69",
+    "duration": 222
+  },
+  {
+    "id": 91,
+    "movie_title": "Guantanamera",
+    "genre": "Comedy",
+    "year": 2008,
+    "director": "Regina Blaszczynski",
+    "cost": "$13.80",
+    "duration": 131
+  },
+  {
+    "id": 92,
+    "movie_title": "Beau Pere (a.k.a. Stepfather) (Beau-père)",
+    "genre": "Drama",
+    "year": 2010,
+    "director": "Thorvald Goldsberry",
+    "cost": "$12.55",
+    "duration": 214
+  },
+  {
+    "id": 93,
+    "movie_title": "Protector (Protektor)",
+    "genre": "Drama",
+    "year": 2008,
+    "director": "Valene Tidbold",
+    "cost": "$10.12",
+    "duration": 82
+  },
+  {
+    "id": 94,
+    "movie_title": "Factotum",
+    "genre": "Drama",
+    "year": 2007,
+    "director": "Jilli Vivian",
+    "cost": "$23.72",
+    "duration": 247
+  },
+  {
+    "id": 95,
+    "movie_title": "Love Story 2050",
+    "genre": "Adventure|Comedy|Musical|Romance|Sci-Fi",
+    "year": 1986,
+    "director": "Lynde Mosen",
+    "cost": "$19.57",
+    "duration": 115
+  },
+  {
+    "id": 96,
+    "movie_title": "Hound of the Baskervilles, The",
+    "genre": "Crime|Mystery",
+    "year": 1995,
+    "director": "Hilliard McVitie",
+    "cost": "$22.27",
+    "duration": 52
+  },
+  {
+    "id": 97,
+    "movie_title": "Live Free or Die",
+    "genre": "Comedy|Crime",
+    "year": 2001,
+    "director": "Dagmar Binton",
+    "cost": "$8.08",
+    "duration": 200
+  },
+  {
+    "id": 98,
+    "movie_title": "Best Man, The",
+    "genre": "Comedy|Drama",
+    "year": 2006,
+    "director": "Shena Dufton",
+    "cost": "$6.40",
+    "duration": 72
+  },
+  {
+    "id": 99,
+    "movie_title": "Predictions of Fire (Prerokbe Ognja)",
+    "genre": "Documentary",
+    "year": 2006,
+    "director": "Averill Rosenshine",
+    "cost": "$23.56",
+    "duration": 127
+  },
+  {
+    "id": 100,
+    "movie_title": "Split, The",
+    "genre": "Crime|Drama",
+    "year": 2012,
+    "director": "Win Slessar",
+    "cost": "$23.87",
+    "duration": 95
+  },
+  {
+    "id": 101,
+    "movie_title": "Scenes from a Mall",
+    "genre": "Comedy",
+    "year": 1993,
+    "director": "Thomasina Matthieson",
+    "cost": "$25.15",
+    "duration": 240
+  },
+  {
+    "id": 102,
+    "movie_title": "Work of Director Michel Gondry, The",
+    "genre": "Comedy|Documentary",
+    "year": 2004,
+    "director": "Lilias Guiet",
+    "cost": "$6.91",
+    "duration": 109
+  },
+  {
+    "id": 103,
+    "movie_title": "Exodus",
+    "genre": "Drama|Romance|War",
+    "year": 1997,
+    "director": "Erv Aps",
+    "cost": "$18.98",
+    "duration": 87
+  },
+  {
+    "id": 104,
+    "movie_title": "The Fault in Our Stars",
+    "genre": "Drama|Romance",
+    "year": 1999,
+    "director": "Curr Rahl",
+    "cost": "$8.32",
+    "duration": 146
+  },
+  {
+    "id": 105,
+    "movie_title": "Whitewash",
+    "genre": "Drama",
+    "year": 2000,
+    "director": "Bryan Hutchinson",
+    "cost": "$24.68",
+    "duration": 157
+  },
+  {
+    "id": 106,
+    "movie_title": "Cheerful Weather for the Wedding",
+    "genre": "Comedy|Drama",
+    "year": 1996,
+    "director": "Rafi Torpie",
+    "cost": "$28.53",
+    "duration": 200
+  },
+  {
+    "id": 107,
+    "movie_title": "Black White + Gray: A Portrait of Sam Wagstaff and Robert Mapplethorpe ",
+    "genre": "Documentary",
+    "year": 1999,
+    "director": "Quintilla Stockwell",
+    "cost": "$20.13",
+    "duration": 178
+  },
+  {
+    "id": 108,
+    "movie_title": "Whisperers, The",
+    "genre": "Drama|Thriller",
+    "year": 2000,
+    "director": "Josie Pavlik",
+    "cost": "$26.36",
+    "duration": 156
+  },
+  {
+    "id": 109,
+    "movie_title": "Before Night Falls",
+    "genre": "Drama",
+    "year": 1998,
+    "director": "Stinky Easbie",
+    "cost": "$10.44",
+    "duration": 182
+  },
+  {
+    "id": 110,
+    "movie_title": "Deeper Shade of Blue, A",
+    "genre": "Documentary",
+    "year": 2002,
+    "director": "Peri Vairow",
+    "cost": "$25.22",
+    "duration": 72
+  },
+  {
+    "id": 111,
+    "movie_title": "Street Fighter: The Legend of Chun-Li",
+    "genre": "Action|Adventure|Sci-Fi|Thriller",
+    "year": 2001,
+    "director": "Mirilla Maffeo",
+    "cost": "$5.43",
+    "duration": 134
+  },
+  {
+    "id": 112,
+    "movie_title": "Pepe",
+    "genre": "Comedy|Musical",
+    "year": 1992,
+    "director": "Ursulina Gibbon",
+    "cost": "$19.04",
+    "duration": 155
+  },
+  {
+    "id": 113,
+    "movie_title": "Stationmaster Is on Fire - The Movie, That Is!, The (Stinsen brinner... filmen alltså)",
+    "genre": "Comedy|Musical",
+    "year": 1999,
+    "director": "Adrianna Jirka",
+    "cost": "$19.88",
+    "duration": 199
+  },
+  {
+    "id": 114,
+    "movie_title": "Lauderdale (a.k.a. Spring Break USA) (a.k.a. Spring Fever USA)",
+    "genre": "Comedy",
+    "year": 2012,
+    "director": "Bernardina Tidmas",
+    "cost": "$10.33",
+    "duration": 224
+  },
+  {
+    "id": 115,
+    "movie_title": "Spirits of the Dead",
+    "genre": "Horror|Mystery",
+    "year": 2005,
+    "director": "Cosette Frankcomb",
+    "cost": "$8.67",
+    "duration": 69
+  },
+  {
+    "id": 116,
+    "movie_title": "Kevin Hart: Let Me Explain",
+    "genre": "Comedy|Documentary",
+    "year": 1985,
+    "director": "Skippie Atthowe",
+    "cost": "$21.40",
+    "duration": 59
+  },
+  {
+    "id": 117,
+    "movie_title": "Girl Shy",
+    "genre": "Action|Comedy|Drama|Romance",
+    "year": 1994,
+    "director": "Vera Chapelhow",
+    "cost": "$25.91",
+    "duration": 145
+  },
+  {
+    "id": 118,
+    "movie_title": "Come and Get It",
+    "genre": "Drama",
+    "year": 1998,
+    "director": "Jeremias Romain",
+    "cost": "$27.13",
+    "duration": 58
+  },
+  {
+    "id": 119,
+    "movie_title": "Four, The (Si da ming bu)",
+    "genre": "Action|Crime|Fantasy",
+    "year": 1994,
+    "director": "Urbanus Jedrys",
+    "cost": "$17.14",
+    "duration": 147
+  },
+  {
+    "id": 120,
+    "movie_title": "Man in the Moon, The",
+    "genre": "Drama|Romance",
+    "year": 2009,
+    "director": "Emmi Hallihane",
+    "cost": "$26.63",
+    "duration": 218
+  },
+  {
+    "id": 121,
+    "movie_title": "December Boys",
+    "genre": "Drama",
+    "year": 2007,
+    "director": "Randolf Whitely",
+    "cost": "$10.06",
+    "duration": 67
+  },
+  {
+    "id": 122,
+    "movie_title": "Raiders of Atlantis, The",
+    "genre": "Action|Mystery|Sci-Fi",
+    "year": 2005,
+    "director": "Hendrika Shirlaw",
+    "cost": "$21.94",
+    "duration": 211
+  },
+  {
+    "id": 123,
+    "movie_title": "Revisionaries, The",
+    "genre": "Documentary",
+    "year": 2010,
+    "director": "Olag Caramuscia",
+    "cost": "$24.93",
+    "duration": 78
+  },
+  {
+    "id": 124,
+    "movie_title": "Treatment, The",
+    "genre": "Comedy|Drama|Romance",
+    "year": 1995,
+    "director": "Zak Iacofo",
+    "cost": "$27.16",
+    "duration": 86
+  },
+  {
+    "id": 125,
+    "movie_title": "Baffled!",
+    "genre": "Mystery|Sci-Fi|Thriller",
+    "year": 1963,
+    "director": "Goldia Rees",
+    "cost": "$27.66",
+    "duration": 195
+  },
+  {
+    "id": 126,
+    "movie_title": "I Love Sarah Jane",
+    "genre": "Horror|Romance",
+    "year": 2003,
+    "director": "Dix Shubotham",
+    "cost": "$15.06",
+    "duration": 168
+  },
+  {
+    "id": 127,
+    "movie_title": "Drawn Together Movie: The Movie!, The",
+    "genre": "Animation|Comedy",
+    "year": 2003,
+    "director": "Isabeau Hylands",
+    "cost": "$7.61",
+    "duration": 167
+  },
+  {
+    "id": 128,
+    "movie_title": "Rain",
+    "genre": "Drama",
+    "year": 1996,
+    "director": "Marty Carluccio",
+    "cost": "$11.14",
+    "duration": 50
+  },
+  {
+    "id": 129,
+    "movie_title": "Last Taboo, The",
+    "genre": "Documentary",
+    "year": 2006,
+    "director": "Nico Theyer",
+    "cost": "$9.32",
+    "duration": 163
+  },
+  {
+    "id": 130,
+    "movie_title": "Buying the Cow",
+    "genre": "Comedy|Romance",
+    "year": 1995,
+    "director": "Minnnie Sagg",
+    "cost": "$9.75",
+    "duration": 72
+  },
+  {
+    "id": 131,
+    "movie_title": "Running With Scissors",
+    "genre": "Comedy|Drama",
+    "year": 2011,
+    "director": "Yvette Khadir",
+    "cost": "$9.87",
+    "duration": 247
+  },
+  {
+    "id": 132,
+    "movie_title": "Snow Queen, The (Lumikuningatar)",
+    "genre": "Children|Fantasy",
+    "year": 2002,
+    "director": "Lucille Greenman",
+    "cost": "$17.47",
+    "duration": 153
+  },
+  {
+    "id": 133,
+    "movie_title": "Double, Double, Toil and Trouble",
+    "genre": "Adventure|Children|Comedy|Fantasy|Horror",
+    "year": 2005,
+    "director": "Shandra Antonsen",
+    "cost": "$10.29",
+    "duration": 237
+  },
+  {
+    "id": 134,
+    "movie_title": "Eternal Return, The (L'éternel retour)",
+    "genre": "Drama|Romance",
+    "year": 2011,
+    "director": "Derk Oxberry",
+    "cost": "$13.54",
+    "duration": 63
+  },
+  {
+    "id": 135,
+    "movie_title": "Melody",
+    "genre": "Drama|Romance",
+    "year": 2006,
+    "director": "Ethelin Chesson",
+    "cost": "$27.15",
+    "duration": 207
+  },
+  {
+    "id": 136,
+    "movie_title": "A.K.",
+    "genre": "Documentary",
+    "year": 2006,
+    "director": "Fawnia Gueinn",
+    "cost": "$18.22",
+    "duration": 190
+  },
+  {
+    "id": 137,
+    "movie_title": "Terrorizers, The (Kong bu fen zi)",
+    "genre": "Drama",
+    "year": 1997,
+    "director": "Eddy Ungerer",
+    "cost": "$5.89",
+    "duration": 74
+  },
+  {
+    "id": 138,
+    "movie_title": "Back In Action",
+    "genre": "Action|Adventure|Drama",
+    "year": 2005,
+    "director": "Amalle Aubury",
+    "cost": "$28.91",
+    "duration": 75
+  },
+  {
+    "id": 139,
+    "movie_title": "School of Flesh, The (École de la chair, L')",
+    "genre": "Drama|Romance",
+    "year": 2006,
+    "director": "Bale Siccombe",
+    "cost": "$23.76",
+    "duration": 84
+  },
+  {
+    "id": 140,
+    "movie_title": "Art of the Steal, The",
+    "genre": "Documentary",
+    "year": 1992,
+    "director": "Chery Doers",
+    "cost": "$8.93",
+    "duration": 101
+  },
+  {
+    "id": 141,
+    "movie_title": "Haunted Strangler, The (Grip of the Strangler)",
+    "genre": "Crime|Horror|Mystery",
+    "year": 2002,
+    "director": "Ruddie Warrior",
+    "cost": "$25.52",
+    "duration": 110
+  },
+  {
+    "id": 142,
+    "movie_title": "From Russia with Love",
+    "genre": "Action|Adventure|Thriller",
+    "year": 2006,
+    "director": "Sherwood Howsley",
+    "cost": "$25.90",
+    "duration": 224
+  },
+  {
+    "id": 143,
+    "movie_title": "Cigarette Girl of Mosselprom, The (Papirosnitsa ot Mosselproma)",
+    "genre": "Comedy|Romance",
+    "year": 1998,
+    "director": "Miran Hanfrey",
+    "cost": "$8.09",
+    "duration": 170
+  },
+  {
+    "id": 144,
+    "movie_title": "Doomed to Die",
+    "genre": "Crime|Drama|Mystery|Thriller",
+    "year": 1998,
+    "director": "Cynthy Ducker",
+    "cost": "$14.11",
+    "duration": 247
+  },
+  {
+    "id": 145,
+    "movie_title": "Southern Yankee, A",
+    "genre": "Comedy|War|Western",
+    "year": 1988,
+    "director": "Huberto St Quenin",
+    "cost": "$20.05",
+    "duration": 222
+  },
+  {
+    "id": 146,
+    "movie_title": "Rhino Season (Fasle kargadan) ",
+    "genre": "Drama|Fantasy|Film-Noir|Mystery|Romance|War",
+    "year": 2012,
+    "director": "Bendicty Fancet",
+    "cost": "$19.10",
+    "duration": 166
+  },
+  {
+    "id": 147,
+    "movie_title": "Wuthering Heights",
+    "genre": "Drama",
+    "year": 1998,
+    "director": "Ernest Trays",
+    "cost": "$6.15",
+    "duration": 146
+  },
+  {
+    "id": 148,
+    "movie_title": "Thoroughbreds Don't Cry",
+    "genre": "Comedy|Drama",
+    "year": 2003,
+    "director": "Lillian Slyman",
+    "cost": "$24.99",
+    "duration": 51
+  },
+  {
+    "id": 149,
+    "movie_title": "Black River (Kuroi kawa)",
+    "genre": "Drama",
+    "year": 2008,
+    "director": "Barde Gunson",
+    "cost": "$21.35",
+    "duration": 230
+  },
+  {
+    "id": 150,
+    "movie_title": "Journey of Natty Gann, The",
+    "genre": "Adventure|Children",
+    "year": 1987,
+    "director": "Bondy Tommen",
+    "cost": "$8.88",
+    "duration": 84
+  },
+  {
+    "id": 151,
+    "movie_title": "Heist",
+    "genre": "Crime|Drama",
+    "year": 1999,
+    "director": "Shaine Lampen",
+    "cost": "$20.93",
+    "duration": 249
+  },
+  {
+    "id": 152,
+    "movie_title": "Milky Way, The",
+    "genre": "Comedy",
+    "year": 2004,
+    "director": "Hazlett Parton",
+    "cost": "$28.37",
+    "duration": 180
+  },
+  {
+    "id": 153,
+    "movie_title": "Goal II: Living the Dream",
+    "genre": "Action|Drama",
+    "year": 2010,
+    "director": "Darnell Statefield",
+    "cost": "$11.67",
+    "duration": 149
+  },
+  {
+    "id": 154,
+    "movie_title": "Honey Moon (Honigmond)",
+    "genre": "Comedy",
+    "year": 1964,
+    "director": "Derril Tungate",
+    "cost": "$26.09",
+    "duration": 163
+  },
+  {
+    "id": 155,
+    "movie_title": "Why Man Creates",
+    "genre": "Animation|Documentary",
+    "year": 2009,
+    "director": "Ewart Fulmen",
+    "cost": "$11.74",
+    "duration": 133
+  },
+  {
+    "id": 156,
+    "movie_title": "Paper Birds (Pájaros de papel)",
+    "genre": "Comedy|Drama",
+    "year": 2007,
+    "director": "Yancey Oxtiby",
+    "cost": "$26.12",
+    "duration": 107
+  },
+  {
+    "id": 157,
+    "movie_title": "F.I.S.T.",
+    "genre": "Drama",
+    "year": 1997,
+    "director": "Frayda Kermeen",
+    "cost": "$7.27",
+    "duration": 128
+  },
+  {
+    "id": 158,
+    "movie_title": "Fire with Fire",
+    "genre": "Action|Crime|Drama",
+    "year": 1998,
+    "director": "Hamlen Braxay",
+    "cost": "$14.94",
+    "duration": 81
+  },
+  {
+    "id": 159,
+    "movie_title": "Panic",
+    "genre": "Action|Thriller",
+    "year": 1984,
+    "director": "Kristyn Swindell",
+    "cost": "$11.85",
+    "duration": 233
+  },
+  {
+    "id": 160,
+    "movie_title": "Passed Away",
+    "genre": "Comedy",
+    "year": 1992,
+    "director": "Elspeth Ebbage",
+    "cost": "$17.23",
+    "duration": 54
+  },
+  {
+    "id": 161,
+    "movie_title": "Devil and Miss Jones, The",
+    "genre": "Comedy|Romance",
+    "year": 1986,
+    "director": "Fabiano Shirt",
+    "cost": "$26.98",
+    "duration": 92
+  },
+  {
+    "id": 162,
+    "movie_title": "On the Edge",
+    "genre": "Drama",
+    "year": 2000,
+    "director": "Batsheva Baugham",
+    "cost": "$12.39",
+    "duration": 157
+  },
+  {
+    "id": 163,
+    "movie_title": "Pine Flat",
+    "genre": "Drama",
+    "year": 1992,
+    "director": "Bettina Robardet",
+    "cost": "$27.94",
+    "duration": 132
+  },
+  {
+    "id": 164,
+    "movie_title": "Run All Night",
+    "genre": "Action|Crime|Drama|Mystery|Thriller",
+    "year": 1991,
+    "director": "Emilee Habens",
+    "cost": "$6.95",
+    "duration": 141
+  },
+  {
+    "id": 165,
+    "movie_title": "Cecil B. DeMented",
+    "genre": "Comedy",
+    "year": 1993,
+    "director": "Deirdre Viney",
+    "cost": "$18.93",
+    "duration": 127
+  },
+  {
+    "id": 166,
+    "movie_title": "Belly 2: Millionaire Boyz Club",
+    "genre": "Drama",
+    "year": 1979,
+    "director": "Adore Tythacott",
+    "cost": "$24.14",
+    "duration": 54
+  },
+  {
+    "id": 167,
+    "movie_title": "Bob the Butler",
+    "genre": "Comedy",
+    "year": 1998,
+    "director": "Elissa Cockayme",
+    "cost": "$24.90",
+    "duration": 236
+  },
+  {
+    "id": 168,
+    "movie_title": "Interrupters, The",
+    "genre": "Documentary",
+    "year": 1986,
+    "director": "Ethelin MacArdle",
+    "cost": "$6.86",
+    "duration": 137
+  },
+  {
+    "id": 169,
+    "movie_title": "Souler Opposite, The",
+    "genre": "Comedy|Romance",
+    "year": 2006,
+    "director": "Celestina Goodband",
+    "cost": "$28.52",
+    "duration": 157
+  },
+  {
+    "id": 170,
+    "movie_title": "Cadaver Christmas, A",
+    "genre": "Comedy|Horror",
+    "year": 1999,
+    "director": "Silvie Conibear",
+    "cost": "$5.28",
+    "duration": 225
+  },
+  {
+    "id": 171,
+    "movie_title": "Terri",
+    "genre": "Comedy",
+    "year": 2000,
+    "director": "Lara Scase",
+    "cost": "$27.37",
+    "duration": 249
+  },
+  {
+    "id": 172,
+    "movie_title": "Good Morning (Ohayô)",
+    "genre": "Comedy",
+    "year": 2005,
+    "director": "Debby Burtt",
+    "cost": "$15.09",
+    "duration": 130
+  },
+  {
+    "id": 173,
+    "movie_title": "Warm Water Under a Red Bridge (Akai hashi no shita no nurui mizu)",
+    "genre": "Comedy|Drama",
+    "year": 2010,
+    "director": "Lalo Bohling",
+    "cost": "$19.35",
+    "duration": 52
+  },
+  {
+    "id": 174,
+    "movie_title": "Naughty Girl",
+    "genre": "Comedy|Musical|Romance",
+    "year": 2008,
+    "director": "Allys Pettko",
+    "cost": "$19.10",
+    "duration": 203
+  },
+  {
+    "id": 175,
+    "movie_title": "84 Charing Cross Road",
+    "genre": "Drama|Romance",
+    "year": 2007,
+    "director": "Stacee Dagleas",
+    "cost": "$14.58",
+    "duration": 234
+  },
+  {
+    "id": 176,
+    "movie_title": "Donkey Xote",
+    "genre": "Animation",
+    "year": 2008,
+    "director": "Corny Ruddiforth",
+    "cost": "$10.30",
+    "duration": 188
+  },
+  {
+    "id": 177,
+    "movie_title": "Dangerous Method, A",
+    "genre": "Drama|Thriller",
+    "year": 1988,
+    "director": "Mead Pybus",
+    "cost": "$10.77",
+    "duration": 54
+  },
+  {
+    "id": 178,
+    "movie_title": "Moonlight and Cactus",
+    "genre": "Comedy|Musical|Western",
+    "year": 1990,
+    "director": "Allin Haselden",
+    "cost": "$6.90",
+    "duration": 157
+  },
+  {
+    "id": 179,
+    "movie_title": "Affluenza",
+    "genre": "Drama",
+    "year": 2008,
+    "director": "Myrtice Stearn",
+    "cost": "$17.03",
+    "duration": 102
+  },
+  {
+    "id": 180,
+    "movie_title": "Return to Life",
+    "genre": "Documentary",
+    "year": 2007,
+    "director": "Massimo Brigstock",
+    "cost": "$26.14",
+    "duration": 227
+  },
+  {
+    "id": 181,
+    "movie_title": "The Girl from the Marsh Croft",
+    "genre": "(no genres listed)",
+    "year": 1998,
+    "director": "Kalina Agar",
+    "cost": "$16.80",
+    "duration": 152
+  },
+  {
+    "id": 182,
+    "movie_title": "12:01 PM",
+    "genre": "Sci-Fi",
+    "year": 1990,
+    "director": "Joletta Izhaky",
+    "cost": "$12.66",
+    "duration": 210
+  },
+  {
+    "id": 183,
+    "movie_title": "Barbary Coast",
+    "genre": "Adventure|Drama|Romance|Western",
+    "year": 1995,
+    "director": "Jamal Strettle",
+    "cost": "$11.46",
+    "duration": 159
+  },
+  {
+    "id": 184,
+    "movie_title": "Who's Harry Crumb?",
+    "genre": "Comedy|Mystery",
+    "year": 2000,
+    "director": "Danice Eldered",
+    "cost": "$15.83",
+    "duration": 182
+  },
+  {
+    "id": 185,
+    "movie_title": "Children Who Chase Lost Voices from Deep Below (Hoshi o ou kodomo) (Journey to Agartha)",
+    "genre": "Animation|Drama|Fantasy",
+    "year": 2004,
+    "director": "Krystyna D'Onisi",
+    "cost": "$21.82",
+    "duration": 92
+  },
+  {
+    "id": 186,
+    "movie_title": "Evil Cult, The (Lord of the Wu Tang) (Yi tian tu long ji: Zhi mo jiao jiao zhu)",
+    "genre": "Action|Fantasy",
+    "year": 2010,
+    "director": "Wally Backshall",
+    "cost": "$14.15",
+    "duration": 58
+  },
+  {
+    "id": 187,
+    "movie_title": "Beach Blanket Bingo",
+    "genre": "Comedy|Musical",
+    "year": 2006,
+    "director": "Maxine MacLure",
+    "cost": "$8.05",
+    "duration": 102
+  },
+  {
+    "id": 188,
+    "movie_title": "Zakochani",
+    "genre": "Comedy|Romance",
+    "year": 2011,
+    "director": "Merell Stave",
+    "cost": "$28.51",
+    "duration": 111
+  },
+  {
+    "id": 189,
+    "movie_title": "Fresh Guacamole",
+    "genre": "Animation",
+    "year": 2010,
+    "director": "Row Ribeiro",
+    "cost": "$6.77",
+    "duration": 108
+  },
+  {
+    "id": 190,
+    "movie_title": "Rich in Love",
+    "genre": "Drama",
+    "year": 2005,
+    "director": "Quillan Opfer",
+    "cost": "$25.27",
+    "duration": 120
+  },
+  {
+    "id": 191,
+    "movie_title": "Fata Morgana",
+    "genre": "Documentary|Drama|Sci-Fi",
+    "year": 1997,
+    "director": "Kerwin Shurmer",
+    "cost": "$10.50",
+    "duration": 228
+  },
+  {
+    "id": 192,
+    "movie_title": "Burn, Witch, Burn (Night of the Eagle)",
+    "genre": "Horror",
+    "year": 2005,
+    "director": "Morissa Picard",
+    "cost": "$20.52",
+    "duration": 160
+  },
+  {
+    "id": 193,
+    "movie_title": "Rock, Paper, Scissors: The Way of the Tosser",
+    "genre": "Comedy",
+    "year": 2000,
+    "director": "Mathias Sebley",
+    "cost": "$15.56",
+    "duration": 89
+  },
+  {
+    "id": 194,
+    "movie_title": "Ju-on: The Curse 2",
+    "genre": "Horror",
+    "year": 1997,
+    "director": "Von Genthner",
+    "cost": "$17.65",
+    "duration": 104
+  },
+  {
+    "id": 195,
+    "movie_title": "Umberto D.",
+    "genre": "Drama",
+    "year": 2005,
+    "director": "Nikkie Lunge",
+    "cost": "$26.57",
+    "duration": 195
+  },
+  {
+    "id": 196,
+    "movie_title": "Anna: 6-18 (Anna: Ot shesti do vosemnadtsati)",
+    "genre": "Documentary",
+    "year": 1991,
+    "director": "Derward Naire",
+    "cost": "$9.88",
+    "duration": 63
+  },
+  {
+    "id": 197,
+    "movie_title": "Robocroc",
+    "genre": "Action|Horror",
+    "year": 2003,
+    "director": "Correy Isoldi",
+    "cost": "$28.20",
+    "duration": 187
+  },
+  {
+    "id": 198,
+    "movie_title": "Bolivia",
+    "genre": "Drama",
+    "year": 2001,
+    "director": "Bradly Tomkinson",
+    "cost": "$18.85",
+    "duration": 46
+  },
+  {
+    "id": 199,
+    "movie_title": "Item, The",
+    "genre": "Action|Horror",
+    "year": 1988,
+    "director": "Lanita Chittie",
+    "cost": "$28.04",
+    "duration": 189
+  },
+  {
+    "id": 200,
+    "movie_title": "Magnificent Warriors (Zhong hua zhan shi)",
+    "genre": "Action",
+    "year": 2011,
+    "director": "Kearney Zelner",
+    "cost": "$22.08",
+    "duration": 214
+  },
+  {
+    "id": 201,
+    "movie_title": "City Girl",
+    "genre": "Drama|Romance",
+    "year": 2002,
+    "director": "Siffre McFade",
+    "cost": "$11.82",
+    "duration": 193
+  },
+  {
+    "id": 202,
+    "movie_title": "Problem Child",
+    "genre": "Children|Comedy",
+    "year": 2002,
+    "director": "Stacy Hatherley",
+    "cost": "$5.74",
+    "duration": 149
+  },
+  {
+    "id": 203,
+    "movie_title": "Dunwich Horror, The",
+    "genre": "Horror",
+    "year": 2010,
+    "director": "Cull Dy",
+    "cost": "$9.54",
+    "duration": 239
+  },
+  {
+    "id": 204,
+    "movie_title": "Legend of Lizzie Borden, The",
+    "genre": "Drama",
+    "year": 2012,
+    "director": "Leroi Pibsworth",
+    "cost": "$27.45",
+    "duration": 222
+  },
+  {
+    "id": 205,
+    "movie_title": "In the Edges: The 'Grizzly Man' Session ",
+    "genre": "Documentary",
+    "year": 2009,
+    "director": "Livia Ickowicz",
+    "cost": "$8.52",
+    "duration": 188
+  },
+  {
+    "id": 206,
+    "movie_title": "Digging Up the Marrow",
+    "genre": "Drama|Fantasy|Horror|Mystery|Thriller",
+    "year": 1990,
+    "director": "Yvon Rottgers",
+    "cost": "$28.28",
+    "duration": 165
+  },
+  {
+    "id": 207,
+    "movie_title": "Wise Kids, The",
+    "genre": "Drama",
+    "year": 1994,
+    "director": "Roderigo Domerq",
+    "cost": "$7.67",
+    "duration": 112
+  },
+  {
+    "id": 208,
+    "movie_title": "Thank You, Mr. Moto",
+    "genre": "Crime|Drama|Mystery",
+    "year": 2010,
+    "director": "Lazarus Brownrigg",
+    "cost": "$6.84",
+    "duration": 164
+  },
+  {
+    "id": 209,
+    "movie_title": "Frenchmen 2",
+    "genre": "Comedy|Romance",
+    "year": 1994,
+    "director": "Arlin Ravens",
+    "cost": "$9.16",
+    "duration": 212
+  },
+  {
+    "id": 210,
+    "movie_title": "Swan and the Wanderer, The (Kulkuri ja joutsen)",
+    "genre": "Drama",
+    "year": 1997,
+    "director": "Christean Indruch",
+    "cost": "$27.55",
+    "duration": 227
+  },
+  {
+    "id": 211,
+    "movie_title": "Timecrimes (Cronocrímenes, Los)",
+    "genre": "Sci-Fi|Thriller",
+    "year": 1992,
+    "director": "Kit Mattack",
+    "cost": "$11.82",
+    "duration": 198
+  },
+  {
+    "id": 212,
+    "movie_title": "Morgen",
+    "genre": "Drama",
+    "year": 2002,
+    "director": "Neilla Kenford",
+    "cost": "$15.38",
+    "duration": 181
+  },
+  {
+    "id": 213,
+    "movie_title": "And the Ship Sails On (E la nave va)",
+    "genre": "Comedy|War",
+    "year": 2011,
+    "director": "Lyssa Gallaher",
+    "cost": "$8.73",
+    "duration": 127
+  },
+  {
+    "id": 214,
+    "movie_title": "Palais royal !",
+    "genre": "Comedy",
+    "year": 2002,
+    "director": "Chaddie Stanbrooke",
+    "cost": "$20.80",
+    "duration": 88
+  },
+  {
+    "id": 215,
+    "movie_title": "King Rat",
+    "genre": "Drama|War",
+    "year": 2007,
+    "director": "Goldie Zumbusch",
+    "cost": "$18.62",
+    "duration": 45
+  },
+  {
+    "id": 216,
+    "movie_title": "101 Reykjavik (101 Reykjavík)",
+    "genre": "Comedy|Drama|Romance",
+    "year": 2005,
+    "director": "Dolf Pocknell",
+    "cost": "$10.80",
+    "duration": 98
+  },
+  {
+    "id": 217,
+    "movie_title": "Theremin: An Electronic Odyssey",
+    "genre": "Documentary",
+    "year": 2012,
+    "director": "Cullin Cantrell",
+    "cost": "$21.24",
+    "duration": 189
+  },
+  {
+    "id": 218,
+    "movie_title": "Throw Down (Yau doh lung fu bong)",
+    "genre": "Drama",
+    "year": 2009,
+    "director": "Carmine Jans",
+    "cost": "$8.41",
+    "duration": 248
+  },
+  {
+    "id": 219,
+    "movie_title": "Saimaa Gesture, The (Saimaa-ilmiö)",
+    "genre": "Documentary",
+    "year": 2001,
+    "director": "Jere Dalgarnocht",
+    "cost": "$10.61",
+    "duration": 209
+  },
+  {
+    "id": 220,
+    "movie_title": "Each Dawn I Die",
+    "genre": "Crime|Drama|Thriller",
+    "year": 2004,
+    "director": "Trista Giuron",
+    "cost": "$12.39",
+    "duration": 72
+  },
+  {
+    "id": 221,
+    "movie_title": "Sherlock Holmes and the Masks of Death",
+    "genre": "Mystery",
+    "year": 2008,
+    "director": "Smitty Aronstein",
+    "cost": "$25.08",
+    "duration": 91
+  },
+  {
+    "id": 222,
+    "movie_title": "Casque d'or",
+    "genre": "Crime|Drama|Romance",
+    "year": 1998,
+    "director": "Zaccaria Caddy",
+    "cost": "$24.27",
+    "duration": 226
+  },
+  {
+    "id": 223,
+    "movie_title": "Zatoichi",
+    "genre": "Action|Drama",
+    "year": 1993,
+    "director": "Anabella Siely",
+    "cost": "$21.25",
+    "duration": 67
+  },
+  {
+    "id": 224,
+    "movie_title": "In Enemy Hands",
+    "genre": "War",
+    "year": 2012,
+    "director": "Olin Haythornthwaite",
+    "cost": "$23.96",
+    "duration": 242
+  },
+  {
+    "id": 225,
+    "movie_title": "Bubble",
+    "genre": "Crime|Drama|Mystery",
+    "year": 1997,
+    "director": "Twyla Owain",
+    "cost": "$11.69",
+    "duration": 208
+  },
+  {
+    "id": 226,
+    "movie_title": "Albatross",
+    "genre": "Drama",
+    "year": 1990,
+    "director": "Marketa Dowbiggin",
+    "cost": "$8.80",
+    "duration": 145
+  },
+  {
+    "id": 227,
+    "movie_title": "Soldier of Fortune",
+    "genre": "Adventure|Crime|Drama|Romance|Thriller",
+    "year": 2000,
+    "director": "Kelley McCauley",
+    "cost": "$12.44",
+    "duration": 192
+  },
+  {
+    "id": 228,
+    "movie_title": "Man of No Importance, A",
+    "genre": "Drama",
+    "year": 1993,
+    "director": "Joye Soames",
+    "cost": "$23.29",
+    "duration": 184
+  },
+  {
+    "id": 229,
+    "movie_title": "Marci X",
+    "genre": "Comedy|Musical",
+    "year": 2010,
+    "director": "Abbi Mellonby",
+    "cost": "$9.83",
+    "duration": 148
+  },
+  {
+    "id": 230,
+    "movie_title": "Ice House, The",
+    "genre": "Drama|Mystery|Thriller",
+    "year": 1992,
+    "director": "Gare Fargher",
+    "cost": "$9.88",
+    "duration": 246
+  },
+  {
+    "id": 231,
+    "movie_title": "Lady in Number 6: Music Saved My Life, The",
+    "genre": "Documentary|Drama",
+    "year": 2011,
+    "director": "Catha Frangleton",
+    "cost": "$10.56",
+    "duration": 51
+  },
+  {
+    "id": 232,
+    "movie_title": "Boris and Natasha",
+    "genre": "Action|Comedy",
+    "year": 2009,
+    "director": "Geoff Akess",
+    "cost": "$10.79",
+    "duration": 132
+  },
+  {
+    "id": 233,
+    "movie_title": "Adventures of Sebastian Cole, The",
+    "genre": "Comedy|Drama",
+    "year": 1993,
+    "director": "Anabella Ovill",
+    "cost": "$24.02",
+    "duration": 157
+  },
+  {
+    "id": 234,
+    "movie_title": "Abraham Lincoln",
+    "genre": "Drama|War",
+    "year": 2003,
+    "director": "Jasun Topes",
+    "cost": "$11.27",
+    "duration": 184
+  },
+  {
+    "id": 235,
+    "movie_title": "I Am Love (Io sono l'amore)",
+    "genre": "Drama|Romance",
+    "year": 2011,
+    "director": "Sophi Dellar",
+    "cost": "$26.59",
+    "duration": 190
+  },
+  {
+    "id": 236,
+    "movie_title": "Heaven & Earth",
+    "genre": "Action|Drama|War",
+    "year": 1994,
+    "director": "Emmott Rodman",
+    "cost": "$14.13",
+    "duration": 246
+  },
+  {
+    "id": 237,
+    "movie_title": "Titanic",
+    "genre": "Action|Drama|Romance",
+    "year": 2011,
+    "director": "Hartwell Fleckness",
+    "cost": "$18.34",
+    "duration": 161
+  },
+  {
+    "id": 238,
+    "movie_title": "Uninvited Guest",
+    "genre": "Drama",
+    "year": 1988,
+    "director": "Gusti Macieiczyk",
+    "cost": "$12.54",
+    "duration": 148
+  },
+  {
+    "id": 239,
+    "movie_title": "Jack the Giant Slayer",
+    "genre": "Adventure|Fantasy|IMAX",
+    "year": 1996,
+    "director": "Lory Castaignet",
+    "cost": "$6.37",
+    "duration": 73
+  },
+  {
+    "id": 240,
+    "movie_title": "Dancemaker",
+    "genre": "Documentary",
+    "year": 1990,
+    "director": "Fawnia Boon",
+    "cost": "$5.57",
+    "duration": 170
+  },
+  {
+    "id": 241,
+    "movie_title": "51",
+    "genre": "Horror|Sci-Fi",
+    "year": 2006,
+    "director": "Colette Donnison",
+    "cost": "$22.22",
+    "duration": 132
+  },
+  {
+    "id": 242,
+    "movie_title": "Batman Begins",
+    "genre": "Action|Crime|IMAX",
+    "year": 2009,
+    "director": "Roger Stuchbery",
+    "cost": "$27.95",
+    "duration": 215
+  },
+  {
+    "id": 243,
+    "movie_title": "Voices",
+    "genre": "Drama|Romance",
+    "year": 2000,
+    "director": "Delainey Paolo",
+    "cost": "$16.85",
+    "duration": 113
+  },
+  {
+    "id": 244,
+    "movie_title": "Crossing, The",
+    "genre": "Drama|War",
+    "year": 1994,
+    "director": "Joe Merrigans",
+    "cost": "$14.75",
+    "duration": 129
+  },
+  {
+    "id": 245,
+    "movie_title": "Home Alone 3",
+    "genre": "Children|Comedy",
+    "year": 2000,
+    "director": "Roderic McHan",
+    "cost": "$20.79",
+    "duration": 135
+  },
+  {
+    "id": 246,
+    "movie_title": "Boulevard",
+    "genre": "Crime|Drama",
+    "year": 2001,
+    "director": "Giovanni Solly",
+    "cost": "$14.87",
+    "duration": 197
+  },
+  {
+    "id": 247,
+    "movie_title": "Million Dollar Mystery",
+    "genre": "Comedy",
+    "year": 1997,
+    "director": "Elizabet Rounds",
+    "cost": "$12.00",
+    "duration": 218
+  },
+  {
+    "id": 248,
+    "movie_title": "Scarface",
+    "genre": "Crime|Drama",
+    "year": 2012,
+    "director": "Dedra Joutapavicius",
+    "cost": "$22.28",
+    "duration": 232
+  },
+  {
+    "id": 249,
+    "movie_title": "Come On, Rangers",
+    "genre": "Romance|Western",
+    "year": 2009,
+    "director": "Anastassia Vasilechko",
+    "cost": "$6.22",
+    "duration": 244
+  },
+  {
+    "id": 250,
+    "movie_title": "Teenage Mutant Ninja Turtles",
+    "genre": "Action|Adventure|Comedy",
+    "year": 1996,
+    "director": "Marlo Merigeau",
+    "cost": "$19.42",
+    "duration": 213
+  }
+]
