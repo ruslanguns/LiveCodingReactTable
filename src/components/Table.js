@@ -16,11 +16,17 @@ const TableWrapper = styled.div`
     background-color: #34495E;
     color: white;
     border-radius: 0.7em;
-    width: 80%;
+    width: 90%;
     
 
     th, td {
       padding: .5em 1em;
+    }
+
+    td {
+      white-space: nowrap;
+      overflow: hidden; 
+      text-overflow: ellipsis;
     }
     
     th, td:before {
@@ -32,6 +38,10 @@ const TableWrapper = styled.div`
       background-color: rgba(0,0,0,0.5);
     }
   }
+
+  @media (max-width: 768px) {
+    justify-content: flex-start;
+  }
 `
 const Paginador = styled.div`
   display: flex;
@@ -41,7 +51,7 @@ const Paginador = styled.div`
   font-size: 2rem;
   
   .page-info, button {
-    padding: 20px;
+    padding: 10px; 
   }
 
   button {
@@ -70,6 +80,14 @@ const Paginador = styled.div`
 
   @media (max-width: 768px) {
     justify-content: center;
+    font-size: 1.2rem;
+
+    button {
+      justify-content: center;
+      margin: 0 2px;
+      width: 2rem;
+      font-size: 1rem;
+    }
   }
 `
 const TableHeader = styled.div`
