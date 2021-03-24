@@ -1,5 +1,5 @@
 import React from 'react'
-import { usePagination, useTable } from 'react-table';
+import { usePagination, useSortBy, useTable } from 'react-table';
 import styled from 'styled-components'
 import { ColumnasPeliculas } from '../config/columns';
 import MOVIES from '../data/MOVIES.json';
@@ -109,10 +109,15 @@ export const Table = () => {
     canNextPage,
     gotoPage,
     setPageSize,
-    state: { pageIndex, pageSize }
-  } = useTable({ initialState: {
-    pageSize: 3,
-  } , columns: ColumnasPeliculas, data: MOVIES }, usePagination)
+    state: { pageIndex, pageSize },
+
+  } = useTable({
+    initialState: {
+      pageSize: 3,
+    },
+    columns: ColumnasPeliculas,
+    data: MOVIES
+  }, useSortBy, usePagination)
   
   const handlePageSizeOnChange = (e) => {
     setPageSize(+e.target.value)
@@ -121,7 +126,11 @@ export const Table = () => {
   return (
     <>
       <TableHeader>
-        <TableSize value={pageSize} options={[3, 6, 10, 20]} handleOnChange={handlePageSizeOnChange} />
+        <TableSize
+          value={pageSize}
+          options={[3,6,10,20]}
+          handleOnChange={handlePageSizeOnChange}
+        />
       </TableHeader>
       <TableWrapper>
         <table {...getTableProps()}>
@@ -130,8 +139,21 @@ export const Table = () => {
               headerGroups.map(({ getHeaderGroupProps, headers }) => (
                 <tr {...getHeaderGroupProps()}>
                   {
-                    headers.map(({ getHeaderProps, render }) => (
-                      <th {...getHeaderProps()}>{ render('Header')}</th>
+                    headers.map(({
+                      getHeaderProps,
+                      getSortByToggleProps,
+                      isSorted,
+                      isSortedDesc,
+                      render
+                    }) => (
+                      <th {...getHeaderProps(getSortByToggleProps())}>
+                        { render('Header')}
+                        <span dangerouslySetInnerHTML={{
+                          __html: isSorted 
+                            ? isSortedDesc ? '&uarr;' : '&darr;'
+                            : '' 
+                          }} />
+                      </th>
                     ))
                   }
                 </tr>

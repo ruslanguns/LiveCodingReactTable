@@ -10,17 +10,13 @@ const GlobalStyles = styled.div`
     padding: 0;
     margin: 0;
   }
-
-  h1  {
-    font-weight: normal;
-    font-size: 2em;
-  }
 `
 
 const HeaderWrapper = styled.header`
   h1 {
+    font-size: 2em;
     text-align: center;
-    font-weight: 600px;
+    font-weight: normal;
   }
 `
 
@@ -30,7 +26,6 @@ function App() {
       <HeaderWrapper>
         <h1>Learn React Table</h1>
       </HeaderWrapper>
-
       <Table />
     </GlobalStyles>
   );
