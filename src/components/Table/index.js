@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import useReactTable from '../../hooks/useReactTable';
 import { TableSize } from './TableSize';
-import { TableWrapper, TableHeader, PaginatorWrapper, SortIcon } from './TableStyles'
+import { TableWrapper, TableHeader, PaginatorWrapper, SortIcon } from '../styled/TableStyles'
 
 
 export default function Table({

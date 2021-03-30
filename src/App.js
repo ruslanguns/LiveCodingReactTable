@@ -3,7 +3,7 @@ import { QueryClient, QueryClientProvider } from 'react-query';
 import { QueryParamProvider } from 'use-query-params';
 import RawgGames from './RawgGames';
 import { ReactQueryDevtools } from 'react-query/devtools';
-import GlobalStyles from './components/GlobalStyles';
+import GlobalStyles from './components/styled/GlobalStyles';
 
 
 const queryClient = new QueryClient();

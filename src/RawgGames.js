@@ -1,6 +1,6 @@
 import React from 'react'
 import Table from './components/Table'
-import columnasTablaRawgGames from './config/columnasTablaRawgGames'
+import columnsRawgGames from './config/columnsRawgGames'
 import useRawGames from './hooks/useRawgGames'
 
 const RawgGames = () => {
@@ -15,7 +15,7 @@ const RawgGames = () => {
   return (
     <Table
       data={data?.results || []}
-      columns={columnasTablaRawgGames}
+      columns={columnsRawgGames}
       isLoading={isLoading}
       pageCount={pageCount}
       handleOnFetch={handleOnFetch}

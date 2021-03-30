@@ -1,5 +1,5 @@
 import React from 'react'
-import { TableSelector } from './TableStyles'
+import { TableSelector } from '../styled/TableStyles'
 
 export const TableSize = ({value, options=[10,25,50,100], handleOnChange}) => {
   return (

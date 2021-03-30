@@ -1,5 +1,5 @@
 
-const columnasTablaRawgGames = [
+const columnsRawgGames = [
   {
     Header: 'Título',
     accessor: 'name',
@@ -18,4 +18,4 @@ const columnasTablaRawgGames = [
   }
 ]
 
-export default columnasTablaRawgGames
+export default columnsRawgGames
