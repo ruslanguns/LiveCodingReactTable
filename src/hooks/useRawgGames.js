@@ -15,7 +15,7 @@ export default function useRawGames() {
     ({sortBy, pageSize, pageIndex}) => {
       setSort(sortToString(sortBy))
       setPageSize(pageSize)
-      setPageIndex(pageIndex)
+      setPageIndex(pageIndex+1)
     },[]
   )
 
@@ -26,7 +26,7 @@ export default function useRawGames() {
 
   useEffect(() => {
     if(query.data) {
-      const totalPages = Math.ceil((query.data?.count) / pageSize) + 1;
+      const totalPages = Math.ceil(query.data?.count / pageSize);
       setPageCount(totalPages)
     }
   }, [query.data, setPageCount, pageSize])

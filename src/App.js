@@ -1,27 +1,10 @@
 import React from 'react'
 import { QueryClient, QueryClientProvider } from 'react-query';
-import styled from 'styled-components';
 import { QueryParamProvider } from 'use-query-params';
 import RawgGames from './RawgGames';
 import { ReactQueryDevtools } from 'react-query/devtools';
+import GlobalStyles from './components/GlobalStyles';
 
-const GlobalStyles = styled.div`
-  box-sizing: border-box;
-  font-family: Montserrat, sans-serif;
-
-  body, html {
-    padding: 0;
-    margin: 0;
-  }
-`
-
-const HeaderWrapper = styled.header`
-  h1 {
-    font-size: 2em;
-    text-align: center;
-    font-weight: normal;
-  }
-`
 
 const queryClient = new QueryClient();
 
@@ -30,14 +13,13 @@ function App() {
     <QueryClientProvider client={queryClient}>
       <QueryParamProvider>
         <GlobalStyles>
-          <HeaderWrapper>
+          <header>
             <h1>React Fetched Datatable</h1>
-          </HeaderWrapper>
-          {/* <Movies /> */}
+          </header>
           <RawgGames />
         </GlobalStyles>
       </QueryParamProvider>
-      <ReactQueryDevtools initialIsOpen />
+      <ReactQueryDevtools/>
     </QueryClientProvider>
   );
 }

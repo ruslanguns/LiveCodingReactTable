@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders learn react title', () => {
   render(<App />);
-  const linkElement = screen.getByText(/React Fetched Datatable/i);
-  expect(linkElement).toBeInTheDocument();
+  const title = screen.getByText(/React Fetched Datatable/i);
+  expect(title).toBeInTheDocument();
 });
