@@ -1,6 +1,9 @@
 import React from 'react'
+import { QueryClient, QueryClientProvider } from 'react-query';
 import styled from 'styled-components';
-import { Table } from './components/Table';
+import { QueryParamProvider } from 'use-query-params';
+import RawgGames from './RawgGames';
+import { ReactQueryDevtools } from 'react-query/devtools';
 
 const GlobalStyles = styled.div`
   box-sizing: border-box;
@@ -20,14 +23,22 @@ const HeaderWrapper = styled.header`
   }
 `
 
+const queryClient = new QueryClient();
+
 function App() {
   return (
-    <GlobalStyles>
-      <HeaderWrapper>
-        <h1>Learn React Table</h1>
-      </HeaderWrapper>
-      <Table />
-    </GlobalStyles>
+    <QueryClientProvider client={queryClient}>
+      <QueryParamProvider>
+        <GlobalStyles>
+          <HeaderWrapper>
+            <h1>Learn React Table</h1>
+          </HeaderWrapper>
+          {/* <Movies /> */}
+          <RawgGames />
+        </GlobalStyles>
+      </QueryParamProvider>
+      <ReactQueryDevtools initialIsOpen />
+    </QueryClientProvider>
   );
 }
 
