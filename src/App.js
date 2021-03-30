@@ -31,7 +31,7 @@ function App() {
       <QueryParamProvider>
         <GlobalStyles>
           <HeaderWrapper>
-            <h1>Learn React Table</h1>
+            <h1>React Fetched Datatable</h1>
           </HeaderWrapper>
           {/* <Movies /> */}
           <RawgGames />
